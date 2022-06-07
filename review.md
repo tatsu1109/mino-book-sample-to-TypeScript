@@ -1,4 +1,7 @@
 # 良いコード/悪いコードで学ぶ設計入門
+## 書籍リンク先
+[Amazon]([Amazon](https://www.amazon.co.jp/%E8%89%AF%E3%81%84%E3%82%B3%E3%83%BC%E3%83%89%EF%BC%8F%E6%82%AA%E3%81%84%E3%82%B3%E3%83%BC%E3%83%89%E3%81%A7%E5%AD%A6%E3%81%B6%E8%A8%AD%E8%A8%88%E5%85%A5%E9%96%80%E2%80%95%E4%BF%9D%E5%AE%88%E3%81%97%E3%82%84%E3%81%99%E3%81%84-%E6%88%90%E9%95%B7%E3%81%97%E7%B6%9A%E3%81%91%E3%82%8B%E3%82%B3%E3%83%BC%E3%83%89%E3%81%AE%E6%9B%B8%E3%81%8D%E6%96%B9-%E4%BB%99%E5%A1%B2-%E5%A4%A7%E4%B9%9F-ebook/dp/B09Y1MWK9N/ref=sr_1_1?adgrpid=134755123199&gclid=CjwKCAjwy_aUBhACEiwA2IHHQDTC41IHhByC-p2ItvFdl1REib_JxVoT6d542JHwgdfrnmZJf7N3lxoCdcQQAvD_BwE&hvadid=592725695690&hvdev=c&hvlocphy=1009252&hvnetw=g&hvqmt=e&hvrand=5943292993804450389&hvtargid=kwd-1660384028854&hydadcr=27492_14478797&jp-ad-ap=0&keywords=%E8%89%AF%E3%81%84%E3%82%B3%E3%83%BC%E3%83%89%E6%82%AA%E3%81%84%E3%82%B3%E3%83%BC%E3%83%89%E3%81%A7%E5%AD%A6%E3%81%B6%E8%A8%AD%E8%A8%88%E5%85%A5%E9%96%80&qid=1654565231&sr=8-1))
+
 ## 内容
 - 悪いコードだということは漠然と理解しつつも、なぜ悪いのか、どう直せばいいのかなど具体的なところが分からない場合に、その理解の手助けになる本
 - 全17章で大きく分けて入門、実践、発展という区切りになっている
